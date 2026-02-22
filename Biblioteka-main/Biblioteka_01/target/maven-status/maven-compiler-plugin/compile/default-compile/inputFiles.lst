@@ -1,0 +1,14 @@
+/Users/karolksiazkiewicz/Desktop/Biblioteka-main/Biblioteka_01/src/main/java/pl/edu/wszib/library/model/Book.java
+/Users/karolksiazkiewicz/Desktop/Biblioteka-main/Biblioteka_01/src/main/java/pl/edu/wszib/library/client/ConsoleInterface.java
+/Users/karolksiazkiewicz/Desktop/Biblioteka-main/Biblioteka_01/src/main/java/pl/edu/wszib/library/core/IAuthenticationService.java
+/Users/karolksiazkiewicz/Desktop/Biblioteka-main/Biblioteka_01/src/main/java/pl/edu/wszib/library/database/CategoryRepository.java
+/Users/karolksiazkiewicz/Desktop/Biblioteka-main/Biblioteka_01/src/main/java/pl/edu/wszib/library/database/ReservationRepository.java
+/Users/karolksiazkiewicz/Desktop/Biblioteka-main/Biblioteka_01/src/main/java/pl/edu/wszib/library/service/AuthenticationService.java
+/Users/karolksiazkiewicz/Desktop/Biblioteka-main/Biblioteka_01/src/main/java/pl/edu/wszib/library/database/BookRepository.java
+/Users/karolksiazkiewicz/Desktop/Biblioteka-main/Biblioteka_01/src/main/java/pl/edu/wszib/library/database/BorrowingRepository.java
+/Users/karolksiazkiewicz/Desktop/Biblioteka-main/Biblioteka_01/src/main/java/pl/edu/wszib/library/App.java
+/Users/karolksiazkiewicz/Desktop/Biblioteka-main/Biblioteka_01/src/main/java/pl/edu/wszib/library/database/UserRepository.java
+/Users/karolksiazkiewicz/Desktop/Biblioteka-main/Biblioteka_01/src/main/java/pl/edu/wszib/library/database/Database.java
+/Users/karolksiazkiewicz/Desktop/Biblioteka-main/Biblioteka_01/src/main/java/pl/edu/wszib/library/core/IBookRepository.java
+/Users/karolksiazkiewicz/Desktop/Biblioteka-main/Biblioteka_01/src/main/java/pl/edu/wszib/library/model/User.java
+/Users/karolksiazkiewicz/Desktop/Biblioteka-main/Biblioteka_01/src/main/java/pl/edu/wszib/library/model/Role.java
